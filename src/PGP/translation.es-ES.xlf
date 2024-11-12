@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 234205371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Management Template</source>
+          <target>Patrón gestión producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PGPItemPatternManagement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Management Template</source>
+          <target>Patrón gestión producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>No. producto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 3450651614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant Code</source>
+          <target>Cód. variante</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Variant Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Cantidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 2660559065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Of Measure</source>
+          <target>Cód. unidad medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Unit Of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 806193894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. per Unit of Measure</source>
+          <target>Cdad. por unidad medida</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Qty. per Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 3179217921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity (Base)</source>
+          <target>Cantidad (base)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Quantity (Base) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <target>Cód. almacén</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 2814799924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bin Code</source>
+          <target>Cód. ubicación</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Bin Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 1482668068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot No.</source>
+          <target>No. lote</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 47037625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial No.</source>
+          <target>No. serie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Serial No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 1579714849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration Date</source>
+          <target>Fecha caducidad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Expiration Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 234205371 - Field 3135432252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty Date</source>
+          <target>Fecha garantía</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PGPItemPatternManagement - Field Warranty Date - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

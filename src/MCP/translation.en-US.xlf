@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 1909869222 - NamedType 3181635100" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 was created correctly.</source>
+          <target>%1 %2 was created correctly.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MCPTableNameIntegrMgt - NamedType MsgCreation</note>
+        </trans-unit>
+        <trans-unit id="Page 507082231 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MCPTableCaptionENU List</source>
+          <target>MCPTableCaptionENU List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 507082231 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <target>Card</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameList - Action Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 507082231 - Action 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <target>Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameList - Action Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 507082231 - Action 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor</source>
+          <target>Vendor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameList - Action Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 507082231 - Action 1613189964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Customer</source>
+          <target>Create Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameList - Action Create Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 507082231 - Action 3658907060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Vendor</source>
+          <target>Create Vendor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameList - Action Create Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1973732013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MCPTableCaptionENU Card</source>
+          <target>MCPTableCaptionENU Card</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1973732013 - Control 3660300303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <target>Post Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameCard - Control Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1973732013 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <target>Card</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameCard - Action Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1973732013 - Action 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <target>Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameCard - Action Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1973732013 - Action 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor</source>
+          <target>Vendor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameCard - Action Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1973732013 - Action 1613189964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Customer</source>
+          <target>Create Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameCard - Action Create Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1973732013 - Action 3658907060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Vendor</source>
+          <target>Create Vendor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameCard - Action Create Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3511317325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MCPTableCaptionENU Integr. Setup</source>
+          <target>MCPTableCaptionENU Integr. Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MCPTableNameIntegrSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MCPTableCaptionENU</source>
+          <target>MCPTableCaptionENU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 966287263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name 2</source>
+          <target>Name 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <target>Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 2306852000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address 2</source>
+          <target>Address 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target>City</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target>Phone No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 617267791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <target>VAT Registration No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field VAT Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 3660300303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <target>Post Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 499448942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>County</source>
+          <target>County</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>Customer No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 1627640004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Date</source>
+          <target>Entry Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Entry Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 281660198 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Leaving Date</source>
+          <target>Leaving Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Leaving Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 995090288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <target>Date Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 2884096592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. series</source>
+          <target>No. series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field No. series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 284764054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country/Region Code</source>
+          <target>Country/Region Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - Field 1527594213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <target>Vendor No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - Field Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - NamedType 3021862972" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you really want to change related customer no.?</source>
+          <target>Do you really want to change related customer no.?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - NamedType ConfirmCustomerChange</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - NamedType 189010788" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you really want to change related vendor no.?</source>
+          <target>Do you really want to change related vendor no.?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - NamedType ConfirmVendorChange</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - NamedType 2393980873" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction was cancelled.</source>
+          <target>Transaction was cancelled.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - NamedType ErrorCancelledTransaction</note>
+        </trans-unit>
+        <trans-unit id="Table 1016067249 - NamedType 49602008" size-unit="char" translate="yes" xml:space="preserve">
+          <source>must not contain letters</source>
+          <target>must not contain letters</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableName - NamedType PhoneNoCannotContainLettersErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3511317325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MCPTableCaptionENU Integration Setup</source>
+          <target>MCPTableCaptionENU Integration Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableNameIntegrSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511317325 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableNameIntegrSetup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3511317325 - Field 4089404581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MCPTableCaptionENU No. Series</source>
+          <target>MCPTableCaptionENU No. Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MCPTableNameIntegrSetup - Field MCPTableName No. Series - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

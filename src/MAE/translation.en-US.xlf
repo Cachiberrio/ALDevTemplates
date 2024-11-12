@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2916284024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAETableCaptionENU Card</source>
+          <target>MAETableCaptionENU Card</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAETableNameCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2916284024 - Action 503024588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target>Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAETableNameCard - Action Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1466413790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAETableCaptionENU List</source>
+          <target>MAETableCaptionENU List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAETableNameList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1466413790 - Action 503024588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target>Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAETableNameList - Action Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3628432856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAETableCaptionENU Comment Sheet</source>
+          <target>MAETableCaptionENU Comment Sheet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAETableNameCommentSheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 360681137 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAETableCaptionENU Setup</source>
+          <target>MAETableCaptionENU Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MAETableNameSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1973724468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAETableCaptionENU</source>
+          <target>MAETableCaptionENU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1973724468 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableName - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1973724468 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableName - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1973724468 - Field 4183427475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created By User Id.</source>
+          <target>Created By User Id.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableName - Field Created By User Id. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1973724468 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableName - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1973724468 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target>Comment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableName - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1973724468 - Field 2884096592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. series</source>
+          <target>No. series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableName - Field No. series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1839037543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAETableCaptionENU Comment Line</source>
+          <target>MAETableCaptionENU Comment Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableNameCommentLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1839037543 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <target>Table Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableNameCommentLine - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1839037543 - Field 3808951907 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAETableCaptionENU</source>
+          <target>MAETableCaptionENU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableNameCommentLine - Field Table Name - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1839037543 - Field 793999801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAETableCaptionENU No.</source>
+          <target>MAETableCaptionENU No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableNameCommentLine - Field MAETableName No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1839037543 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableNameCommentLine - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1839037543 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Line No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableNameCommentLine - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1839037543 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableNameCommentLine - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1839037543 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target>Comment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableNameCommentLine - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 360681137 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAETableCaptionENU Setup</source>
+          <target>MAETableCaptionENU Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableNameSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 360681137 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableNameSetup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 360681137 - Field 4267206696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAETableName No. Series</source>
+          <target>MAETableName No. Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MAETableNameSetup - Field MAETableName No. Series - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

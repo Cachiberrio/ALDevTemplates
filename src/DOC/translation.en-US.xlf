@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 441934449 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you really want to post the DOCTableCaptionENU?</source>
+          <target>Do you really want to post the DOCTableCaptionENU?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PostDOCTableNameYesNo - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1300501667 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is nothing to post.</source>
+          <target>There is nothing to post.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PostDOCTableName - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1300501667 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting lines              #2######\</source>
+          <target>Posting lines              #2######\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PostDOCTableName - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1300501667 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>is not within your range of allowed posting dates.</source>
+          <target>is not within your range of allowed posting dates.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PostDOCTableName - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1300501667 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting DOCTableCaptionENU</source>
+          <target>Posting DOCTableCaptionENU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PostDOCTableName - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1300501667 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Lines #1###</source>
+          <target>Processing Lines #1###</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PostDOCTableName - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Page 2929523359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DOCTableCaptionENU Lines Subform</source>
+          <target>DOCTableCaptionENU Lines Subform</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableNameLineSubform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2929523359 - Action 1402615620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Line</source>
+          <target>&amp;Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableNameLineSubform - Action &amp;Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2929523359 - Action 297316250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C&amp;omments</source>
+          <target>C&amp;omments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableNameLineSubform - Action C&amp;omments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3551283091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DOCTableCaptionENU</source>
+          <target>DOCTableCaptionENU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3551283091 - Control 3471137671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <target>Lines</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableName - Control Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3551283091 - Action 503024588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target>Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableName - Action Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3551283091 - Action 1344672713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Print</source>
+          <target>&amp;Print</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableName - Action &amp;Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3551283091 - Action 2245087378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;osting</source>
+          <target>P&amp;osting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableName - Action P&amp;osting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3551283091 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;ost</source>
+          <target>P&amp;ost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableName - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802897533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DOCTableCaptionENU List</source>
+          <target>DOCTableCaptionENU List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableNameList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802897533 - Action 503024588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target>Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableNameList - Action Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1522398678 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <target>Lines</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PostedDOCTableNameSubform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1522398678 - Action 1402615620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Line</source>
+          <target>&amp;Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PostedDOCTableNameSubform - Action &amp;Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1522398678 - Action 297316250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C&amp;omments</source>
+          <target>C&amp;omments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PostedDOCTableNameSubform - Action C&amp;omments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1915711476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted DOCTableCaptionENU</source>
+          <target>Posted DOCTableCaptionENU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PostedDOCTableName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1915711476 - Action 503024588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target>Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PostedDOCTableName - Action Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1915711476 - Action 1344672713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Print</source>
+          <target>&amp;Print</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PostedDOCTableName - Action &amp;Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1915711476 - Action 1405007275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Navigate</source>
+          <target>&amp;Navigate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PostedDOCTableName - Action &amp;Navigate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 146486430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted DOCTableCaptionENU List</source>
+          <target>Posted DOCTableCaptionENU List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PostedDOCTableNameList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 146486430 - Action 503024588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target>Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PostedDOCTableNameList - Action Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3863636826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DOCTableCaptionENU Sertup</source>
+          <target>DOCTableCaptionENU Sertup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableNameSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1075847439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DOCTableCaptionENU Comment Sheet</source>
+          <target>DOCTableCaptionENU Comment Sheet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DOCTableNameComment Sheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3551283091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;DocumentName&gt;</source>
+          <target>&lt;DocumentName&gt;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DOCTableName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3551283091 - NamedType 329424276" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;DocumentName&gt;</source>
+          <target>&lt;DocumentName&gt;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DOCTableName - NamedType Title</note>
+        </trans-unit>
+        <trans-unit id="Report 3551283091 - NamedType 2308951394" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Page</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DOCTableName - NamedType PageNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1915711476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted &lt;DocumentName&gt;</source>
+          <target>Posted &lt;DocumentName&gt;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PostedDOCTableName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1915711476 - NamedType 329424276" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted &lt;DocumentName&gt;</source>
+          <target>Posted &lt;DocumentName&gt;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PostedDOCTableName - NamedType Title</note>
+        </trans-unit>
+        <trans-unit id="Report 1915711476 - NamedType 2308951394" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Page</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report PostedDOCTableName - NamedType PageNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Table 81187794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DOCTableCaptionENU Header</source>
+          <target>DOCTableCaptionENU Header</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameHeader - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 81187794 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameHeader - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 81187794 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameHeader - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 81187794 - Field 4183427475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created By User Id.</source>
+          <target>Created By User Id.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameHeader - Field Created By User Id. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 81187794 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameHeader - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 81187794 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target>Comment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameHeader - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 81187794 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>No. Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameHeader - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3058950417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted DOCTableCaptionENU Header</source>
+          <target>Posted DOCTableCaptionENU Header</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameHeader - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3058950417 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameHeader - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3058950417 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameHeader - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3058950417 - Field 4183427475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created By User Id.</source>
+          <target>Created By User Id.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameHeader - Field Created By User Id. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3058950417 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameHeader - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3058950417 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target>Comment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameHeader - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3058950417 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>No. Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameHeader - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2140849017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DOCTableCaptionENU Line</source>
+          <target>DOCTableCaptionENU Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2140849017 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameLine - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2140849017 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Line No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameLine - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2140849017 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameLine - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2140849017 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameLine - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1271853098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted DOCTableCaptionENU Line</source>
+          <target>Posted DOCTableCaptionENU Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1271853098 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameLine - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1271853098 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Line No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameLine - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1271853098 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameLine - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1271853098 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PostedDOCTableNameLine - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 458687312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DOCTableCaptionENU Comment Line</source>
+          <target>DOCTableCaptionENU Comment Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameCommentLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 458687312 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <target>Table Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameCommentLine - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 458687312 - Field 3808951907 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header,Line</source>
+          <target>Header,Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameCommentLine - Field Table Name - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 458687312 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Document No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameCommentLine - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 458687312 - Field 2480638018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Line No.</source>
+          <target>Document Line No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameCommentLine - Field Document Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 458687312 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameCommentLine - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 458687312 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Line No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameCommentLine - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 458687312 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameCommentLine - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 458687312 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target>Comment</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameCommentLine - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3863636826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;DocumentName&gt; Setup</source>
+          <target>&lt;DocumentName&gt; Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3863636826 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameSetup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3863636826 - Field 2944302686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DOCTableCaptionENU No. Series</source>
+          <target>DOCTableCaptionENU No. Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DOCTableNameSetup - Field DOCTableCaptionENU No. Series - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 3596665367 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIAJournalCodeENU</source>
+          <target>DIAJournalCodeESP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJournalMgt - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3596665367 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIAJournalDescriptionENU</source>
+          <target>DIAJournalDescriptionESP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJournalMgt - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3596665367 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DEFAULT</source>
+          <target>GENERICO</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJournalMgt - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3596665367 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Journal</source>
+          <target>Diario genérico</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJournalMgt - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1272933286 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>cannot be a closing date</source>
+          <target>no puede ser una fecha última</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlCheckLine - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1272933286 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>is not within your range of allowed posting dates</source>
+          <target>no está dentro del periodo de fechas de registro permitidas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlCheckLine - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2444705738 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>cannot exceed %1 characters</source>
+          <target>no puede superar %1 caracteres</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostBatch - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2444705738 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name    #1##########\\</source>
+          <target>Nombre sección diario #1##########\\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostBatch - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2444705738 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checking lines        #2######\</source>
+          <target>Comprobando líneas    #2######\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostBatch - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2444705738 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting lines         #3###### @4@@@@@@@@@@@@@\</source>
+          <target>Registrando líneas    #3###### @4@@@@@@@@@@@@@\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostBatch - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2444705738 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updating lines        #5###### @6@@@@@@@@@@@@@</source>
+          <target>Actualizando líns.    #5###### @6@@@@@@@@@@@@@</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostBatch - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2444705738 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting lines         #3###### @4@@@@@@@@@@@@@</source>
+          <target>Registrando líneas    #3###### @4@@@@@@@@@@@@@</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostBatch - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2444705738 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A maximum of %1 posting number series can be used in each journal.</source>
+          <target>Se puede utilizar un máximo de %1 números de serie de registro en cada diario.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostBatch - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 213500925 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>cannot be filtered when posting recurring journals</source>
+          <target>no puede contener un filtro cuando se registra un diario periódico</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJournalPost - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 213500925 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to post the journal lines?</source>
+          <target>¿Confirma que desea registrar las líneas del diario?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJournalPost - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 213500925 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is nothing to post.</source>
+          <target>No hay nada que registrar.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJournalPost - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 213500925 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The journal lines were successfully posted.</source>
+          <target>Se han registrado correctamente las líneas del diario.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJournalPost - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 213500925 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The journal lines were successfully posted. </source>
+          <target>Se han registrado correctamente las líneas del diario. </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJournalPost - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 213500925 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You are now in the %1 journal.</source>
+          <target>Se encuentra en el diario %1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJournalPost - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 377292797 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>cannot be filtered when posting recurring journals</source>
+          <target>no puede contener un filtro cuando se registra un diario periódico</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostPrint - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 377292797 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to post the journal lines and print the posting report?</source>
+          <target>¿Confirma que desea registrar las líns. de diario e imprimir el informe de reg.?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostPrint - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 377292797 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is nothing to post.</source>
+          <target>No hay nada que registrar.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostPrint - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 377292797 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The journal lines were successfully posted.</source>
+          <target>Se han registrado correctamente las líneas del diario.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostPrint - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 377292797 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The journal lines were successfully posted. </source>
+          <target>Se han registrado correctamente las líneas del diario. </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostPrint - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 377292797 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You are now in the %1 journal.</source>
+          <target>Se encuentra en el diario %1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DIAJournalNameJnlPostPrint - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Page 835848467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIAJournalCaptionENU Journal Templates</source>
+          <target>Libros diario DIAJournalCaptionESP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJnlTemplates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 835848467 - Action 45445610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Te&amp;mplate</source>
+          <target>&amp;Libro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJnlTemplates - Action Te&amp;mplate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 835848467 - Action 2243748878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batches</source>
+          <target>Secciones</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJnlTemplates - Action Batches - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 738935357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIAJournalCaptionENU Journal</source>
+          <target>Diario DIAJournalCaptionESP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJournal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 738935357 - Control 2315598549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <target>Nombre sección</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJournal - Control ActualJournalBatch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 738935357 - Action 2245087378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;osting</source>
+          <target>&amp;Registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJournal - Action P&amp;osting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 738935357 - Action 913412068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Report</source>
+          <target>Informe prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJournal - Action TestReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 738935357 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;ost</source>
+          <target>&amp;Registrar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJournal - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 738935357 - Action 513012614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post and &amp;Print</source>
+          <target>Registrar e &amp;imprimir</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJournal - Action PostAndPrint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1056353296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIAJournalCaptionENU Journal Template List</source>
+          <target>Lista libros diario DIAJournalCaptionESP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJnlTempList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4237425812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIAJournalCaptionENU Journal Batches</source>
+          <target>Secciones diario DIAJournalCaptionESP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJnlBatches - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4237425812 - Action 2525623599 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Journal</source>
+          <target>Editar diario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJnlBatches - Action Edit Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4237425812 - Action 2245087378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;osting</source>
+          <target>&amp;Registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJnlBatches - Action P&amp;osting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4237425812 - Action 913412068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Report</source>
+          <target>Informe prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJnlBatches - Action TestReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4237425812 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;ost</source>
+          <target>&amp;Registrar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJnlBatches - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4237425812 - Action 513012614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post and &amp;Print</source>
+          <target>Registrar e &amp;imprimir</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameJnlBatches - Action PostAndPrint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1397399500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIAJournalCaptionENU Entries</source>
+          <target>Movs. DIAJournalCaptionESP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1397399500 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <target>Imprimir</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameEntries - Action Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1397399500 - Action 3538210097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Navigate</source>
+          <target>&amp;Navegar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameEntries - Action Navigate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1397399500 - Action 3538210097 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find all entries and documents that exist for the document number and posting date on the selected entry or document.</source>
+          <target>Permite buscar todos los movimientos y los documentos que existen para el número de documento y la fecha de registro que constan en el movimiento o el documento seleccionado.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIAJournalNameEntries - Action Navigate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1397399500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;JournalName&gt; Entries</source>
+          <target>Mov. &lt;nombrediario&gt;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DIAJournalNameEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1397399500 - NamedType 110193313" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;Titulo del informe&gt;</source>
+          <target>&lt;Titulo del informe&gt;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DIAJournalNameEntries - NamedType Titulo</note>
+        </trans-unit>
+        <trans-unit id="Report 1397399500 - NamedType 1987762555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Pag.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DIAJournalNameEntries - NamedType CurrReport_PAGENOCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1397399500 - NamedType 4172600247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha registro</source>
+          <target>Fecha registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DIAJournalNameEntries - NamedType FechaCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1397399500 - NamedType 2568316111" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Descripción</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DIAJournalNameEntries - NamedType DescripcionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1397399500 - NamedType 3854352311" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº documento</source>
+          <target>Nº documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DIAJournalNameEntries - NamedType NoDocumentoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIAJournalCaptionENU Journal Template</source>
+          <target>Libro diario DIAJournalCaptionESP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 894914730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page ID</source>
+          <target>ID Página</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field Page ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 3274402224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page Name</source>
+          <target>Nombre formulario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field Page Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 2884096592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. series</source>
+          <target>No. serie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field No. series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 2866390368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting No. series</source>
+          <target>No. serie registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field Posting No. series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>Cód. origen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 2441389431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Report ID</source>
+          <target>ID Informe prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field Test Report ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 2306046013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Report ID</source>
+          <target>ID Informe para registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field Posting Report ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 450800113 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Report Name</source>
+          <target>Nombre informe prueba</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field Test Report Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 3397760915 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Report Name</source>
+          <target>Nombre informe para registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field Posting Report Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <target>Cód. auditoría</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - Field Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2451005861 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>must not be %1</source>
+          <target>No puede ser %1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalTemplate - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 478015729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIAJournalCaptionENU Journal Batch</source>
+          <target>Sección diario DIAJournalCaptionESP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalBatch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 478015729 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <target>Nombre libro diario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalBatch - Field Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 478015729 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Nombre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalBatch - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 478015729 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalBatch - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 478015729 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <target>Cód. auditoría</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalBatch - Field Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 478015729 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>No. serie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalBatch - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 478015729 - Field 103924864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting No. Series</source>
+          <target>No. serie registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalBatch - Field Posting No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 478015729 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>must not be %1</source>
+          <target>No puede ser %1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalBatch - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 1891136367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIAJournalCaptionENU Journal Line</source>
+          <target>Línea diario DIAJournalCaptionESP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1891136367 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <target>Nombre libro diario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalLine - Field Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1891136367 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <target>Nombre sección diario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalLine - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1891136367 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>No. línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalLine - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1891136367 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Fecha registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalLine - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1891136367 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>No. documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalLine - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1891136367 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalLine - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1891136367 - Field 103924864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting No. Series</source>
+          <target>No. serie registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalLine - Field Posting No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1891136367 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>Cód. origen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalLine - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1891136367 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <target>Cód. auditoría</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameJournalLine - Field Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534392242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIAJournalCaptionENU Entry</source>
+          <target>Mov. DIAJournalCaptionESP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameEntry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534392242 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>No. mov.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameEntry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534392242 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <target>Nombre sección diario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameEntry - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534392242 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Fecha registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameEntry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534392242 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>No. documento</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameEntry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534392242 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameEntry - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534392242 - Field 103924864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting No. Series</source>
+          <target>No. serie registro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameEntry - Field Posting No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534392242 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>Cód. origen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameEntry - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534392242 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <target>Cód. auditoría</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIAJournalNameEntry - Field Reason Code - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
