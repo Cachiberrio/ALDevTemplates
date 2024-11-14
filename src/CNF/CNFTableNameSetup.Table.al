@@ -1,11 +1,5 @@
 table 85090 CNFTableNameSetup
 {
-    // CNF Cadenas a sustituir
-    // =================================
-    // CNFTableName
-    // CNFTableCaptionENU
-    // CNFTableCaptionESP
-
     Caption = 'CNFTableCaptionENU Setup';
 
     fields

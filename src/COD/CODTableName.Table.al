@@ -1,13 +1,5 @@
 table 85020 CODTableName
 {
-    // COD Cadenas a sustituir
-    // =================================
-    // CODTableName
-    // TableCaptionENU
-    // TableCaptionESP
-    // CODPageName
-    // PageCaptionENU
-    // PageCaptionESP
 
     Caption = 'TableCaptionENU';
     DrillDownPageID = CODPageName;

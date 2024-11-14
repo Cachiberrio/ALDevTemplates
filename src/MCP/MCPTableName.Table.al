@@ -1,8 +1,5 @@
 table 85050 MCPTableName
 {
-    // MCPTableName
-    // MCPTableCaptionENU
-    // MCPTableCaptionESP
 
     Caption = 'MCPTableCaptionENU';
     DrillDownPageID = MCPTableNameList;

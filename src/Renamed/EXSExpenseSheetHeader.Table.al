@@ -1,7 +1,7 @@
-table 85000 DOCTableNameHeader
+table 85000 EXSExpenseSheetHeader
 {
 
-    Caption = 'DOCTableCaptionENU Header';
+    Caption = 'Expense Sheet Header';
 
     fields
     {
@@ -27,7 +27,7 @@ table 85000 DOCTableNameHeader
         }
         field(7; Comment; Boolean)
         {
-            CalcFormula = Exist(DOCTableNameCommentLine WHERE("Table Name" = CONST(Header),
+            CalcFormula = Exist(EXSExpenseSheetCommentLine WHERE("Table Name" = CONST(Header),
                                                                "Document No." = FIELD("No.")));
             Caption = 'Comment';
             FieldClass = FlowField;
@@ -56,8 +56,8 @@ table 85000 DOCTableNameHeader
 
     trigger OnDelete()
     var
-        DocumentNameCommentLine: Record DOCTableNameCommentLine;
-        DocumentNameLine: Record DOCTableNameLine;
+        DocumentNameCommentLine: Record EXSExpenseSheetCommentLine;
+        DocumentNameLine: Record EXSExpenseSheetLine;
     begin
         DocumentNameLine.Reset;
         DocumentNameLine.SetRange("Document No.", "No.");
@@ -71,35 +71,35 @@ table 85000 DOCTableNameHeader
 
     trigger OnInsert()
     var
-        DOCTableNameHeader: Record DOCTableNameHeader;
+        EXSExpenseSheetHeader: Record EXSExpenseSheetHeader;
     begin
         if "No." = '' then begin
-            DOCTableNameSetup.Get;
-            DOCTableNameSetup.TestField("DOCTableCaptionENU No. Series");
+            EXSExpenseSheetSetup.Get;
+            EXSExpenseSheetSetup.TestField("Expense Sheet No. Series");
 
-            "No. Series" := DOCTableNameSetup."DOCTableCaptionENU No. Series";
+            "No. Series" := EXSExpenseSheetSetup."Expense Sheet No. Series";
             if NoSeries.AreRelated("No. Series", xRec."No. Series") then
                 "No. Series" := xRec."No. Series";
             "No." := NoSeries.GetNextNo("No. Series");
-            while DOCTableNameHeader.Get("No.") do
+            while EXSExpenseSheetHeader.Get("No.") do
                 "No." := NoSeries.GetNextNo("No. Series");
         end;
     end;
 
     var
-        DOCTableNameSetup: Record DOCTableNameSetup;
+        EXSExpenseSheetSetup: Record EXSExpenseSheetSetup;
         NoSeries: Codeunit "No. Series";
 
-    procedure AssistEdit(OldDOCTableNameHeader: Record DOCTableNameHeader): Boolean
+    procedure AssistEdit(OldEXSExpenseSheetHeader: Record EXSExpenseSheetHeader): Boolean
     var
-        DOCTableNameHeader: Record DOCTableNameHeader;
+        EXSExpenseSheetHeader: Record EXSExpenseSheetHeader;
     begin
-        OldDOCTableNameHeader := Rec;
-        DOCTableNameSetup.Get();
-        DOCTableNameSetup.TestField("DOCTableCaptionENU No. Series");
-        if NoSeries.LookupRelatedNoSeries(DOCTableNameSetup."DOCTableCaptionENU No. Series", OldDOCTableNameHeader."No. Series", DOCTableNameHeader."No. Series") then begin
-            DOCTableNameHeader."No." := NoSeries.GetNextNo(DOCTableNameHeader."No. Series");
-            Rec := OldDOCTableNameHeader;
+        OldEXSExpenseSheetHeader := Rec;
+        EXSExpenseSheetSetup.Get();
+        EXSExpenseSheetSetup.TestField("Expense Sheet No. Series");
+        if NoSeries.LookupRelatedNoSeries(EXSExpenseSheetSetup."Expense Sheet No. Series", OldEXSExpenseSheetHeader."No. Series", EXSExpenseSheetHeader."No. Series") then begin
+            EXSExpenseSheetHeader."No." := NoSeries.GetNextNo(EXSExpenseSheetHeader."No. Series");
+            Rec := OldEXSExpenseSheetHeader;
             exit(true);
         end;
     end;

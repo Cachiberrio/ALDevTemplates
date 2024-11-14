@@ -1,10 +1,5 @@
 table 85070 MAETableName
 {
-    // MAE Maestro con series de numeración Cadenas a sustituir
-    // =============================================================
-    // MAETableName
-    // MAETableCaptionENU
-    // MAETableCaptionESP
 
     Caption = 'MAETableCaptionENU';
     DrillDownPageID = MAETableNameList;
